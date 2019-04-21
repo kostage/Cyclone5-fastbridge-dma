@@ -1,0 +1,6 @@
+config PEL_DMA_DRV
+	tristate "Pelengator dma bridge offload"
+	help
+		blablabla
+
+
